@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="myEGOPVP" alt="EGOPVP Logo" width="200"/>
+  <img src="myEGOPVP.png" alt="EGOPVP Logo" width="200"/>
 </p>
 
 <h1 align="center">EGOPVP — FiveM Competitive PvP Server</h1>
